@@ -1,0 +1,10 @@
+name: helloworld
+title:
+username:
+account: davidedr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1065593
+bundleId: 2287344
+url: https://davidedr.shinyapps.io/helloworld/
+when: 1564777227.9139
